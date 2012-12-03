@@ -21,6 +21,9 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    text-align: center;
+    background-color: #CCCCCC;
+    padding-top: 100px;
 }
 
 /*
